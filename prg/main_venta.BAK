@@ -91,8 +91,8 @@ conex=0
 *---------------------
 
 *****VERSION
-Vgc_version='1.0.0.18'
-Vgc_vigencia='29/04/2019'
+Vgc_version='1.0.0.19'
+Vgc_vigencia='26/02/2020'
 ***VERSION
 SET STEP ON
 Local cnControladorArch,nTamaño,cCadena
